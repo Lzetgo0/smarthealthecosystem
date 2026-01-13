@@ -1,0 +1,9 @@
+streamlit
+paho-mqtt
+pandas
+numpy
+joblib
+plotly
+google-generativeai
+python-dotenv
+scikit-learn
